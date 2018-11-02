@@ -15,7 +15,7 @@ export default class PickupSavings extends Component{
   render(){
     const tooltip = (
       <Tooltip id="tooltip">
-        <p>Picking up your order in the store helps</p>
+        <p>Picking up your order in the store helps reduce the price.</p>
       </Tooltip>
     );
     return(
